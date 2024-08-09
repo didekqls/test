@@ -607,20 +607,14 @@ stylekit = {
   "color_secondary": "#C0FFE",  # 기존 보조 색상
 }
 
-
 if __name__ == '__main__':
-    # the options in the gui.run() are optional, try without them
-    gui.run(title='About Process',
-    		host='0.0.0.0',
-    		port=os.environ.get('PORT', '5007'),
-    		dark_mode=False,
-            stylekit=stylekit,
-            )
-else:
-    app = gui.run(title='About Process',
-                  dark_mode=False,
-                  run_server=False,
-                  stylekit=stylekit,
-                  )
+    gui.run(
+        title='About Process',
+        host='0.0.0.0',  # 외부 네트워크에서 접근 가능하도록 설정
+        port=os.environ.get('PORT', '5007'),  # 환경 변수에서 포트 번호를 가져오거나 기본값 '5007' 사용
+        dark_mode=False,
+        stylekit=stylekit
+    )
+
 
 #저장시간 2024/8/4 14:00
