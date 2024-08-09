@@ -1,0 +1,16 @@
+﻿Summary,UOM,Data
+Name,,C2
+Thermodynamic System,,SRKM01
+Feed Streams,,S29
+Product Streams,,S22
+Product Stream Phases,,
+S22,,Vapor
+Outlet Temperature,C,177.2926235
+Outlet Pressure,barg,20
+Pressure Increase,bar,19
+Efficiency - adiabatic,,100
+Efficiency - polytropic,,100
+Mechanical Efficiency,,70
+Shaft Power,kW,160.0901998
+Head - actual,m,39366.63752
+Shaft Work,kW,112.0631399

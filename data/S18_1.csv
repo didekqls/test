@@ -1,0 +1,20 @@
+﻿Parameter,Value
+Rate (kg-mol/hr),5026.4915
+Temperature (C),82.5
+Pressure (kPa),1651.33
+Molecular Weight,17.8131
+Fraction,1
+Enthalpy (J/kg-mol),6.19E+06
+Cp (J/kg-C),4260.5772
+NH3 Flowrate (kg-mol/hr),187.7992
+H2 Flowrate (kg-mol/hr),59.8796
+N2 Flowrate (kg-mol/hr),12.6625
+H2O Flowrate (kg-mol/hr),4766.1503
+O2 Flowrate (kg-mol/hr),0
+Air Flowrate (kg-mol/hr),0
+NH3 Composition,0.0374
+H2 Composition,0.0119
+N2 Composition,2.52E-03
+H2O Composition,0.9482
+O2 Composition,0
+Air Composition,0

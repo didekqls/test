@@ -1,0 +1,16 @@
+﻿Summary,UOM,Data
+HX Name,,E5
+Hot Side Thermo Method,,SRKM01
+Cold Side Thermo Method,,SRKM01
+Hot Side Feed Stream(s),,S28
+Hot Side Product Stream(s),,S21
+Cold Side Feed Stream(s),,S26
+Cold Side Product Stream(s),,S29
+Product Stream Phases,,
+S21,,Liquid
+S29,,Vapor
+Duty,kJ/hr,1146094.878
+FT Factor,,0.864102701
+LMTD,C,14.23267001
+MTD,C,12.2984886
+U*A,kW/K,25.88608233

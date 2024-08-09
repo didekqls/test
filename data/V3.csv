@@ -1,0 +1,11 @@
+﻿Summary,UOM,Data
+Name,,V3
+Thermodynamic System,,SRKM01
+Feed Streams,,S23
+Product Streams,,S26
+Product Stream Phases,,
+S26,,Mixed
+Pressure (User Input),barg,1
+Temperature,C,-18.7213533
+Pressure,barg,1
+Pressure Drop,bar,19
